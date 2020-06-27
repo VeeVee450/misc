@@ -4,3 +4,4 @@
 /rand
 /strerror
 /vmacho
+vmacho.c
